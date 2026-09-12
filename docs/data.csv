@@ -1,0 +1,61 @@
+case_id,fraud_pattern,account_channel,loss_amount_inr,hours_to_report,new_payee_flag,device_change_flag,urgency_language_flag,unusual_amount_flag,mule_flag,risk_score,amount_recovered_inr
+UPI-00001,Account Takeover,UPI,1000,1,1,1,1,1,1,97.1,50
+UPI-00002,Fake Merchant,AutoPay,25791,14,0,0,0,1,0,38.7,2579
+UPI-00003,Investment Scam,Collect,50582,27,0,0,0,0,0,28.4,4047
+UPI-00004,Remote Access,QR,75373,40,0,0,1,0,0,40.0,8291
+UPI-00005,Phishing,UPI,100164,53,1,0,0,0,0,46.7,14023
+UPI-00006,Mule Account,AutoPay,124955,66,0,0,0,1,1,65.3,21242
+UPI-00007,Social Engineering,Collect,149746,79,0,0,1,1,0,57.0,29949
+UPI-00008,Account Takeover,QR,174537,92,0,1,0,0,0,51.6,5236
+UPI-00009,Fake Merchant,UPI,199328,9,1,0,0,0,0,53.3,89698
+UPI-00010,Investment Scam,AutoPay,224119,22,1,0,1,0,0,64.9,112060
+UPI-00011,Remote Access,Collect,8910,35,0,0,0,1,0,37.6,1069
+UPI-00012,Phishing,QR,33701,48,0,0,0,1,0,39.2,5055
+UPI-00013,Mule Account,UPI,58492,61,1,0,1,0,1,73.9,10529
+UPI-00014,Social Engineering,AutoPay,83283,74,0,0,0,0,0,30.6,17489
+UPI-00015,Account Takeover,Collect,108074,87,0,1,0,0,0,47.2,4323
+UPI-00016,Fake Merchant,QR,132865,4,0,0,1,1,0,55.9,33216
+UPI-00017,Investment Scam,UPI,157656,17,1,0,0,1,0,62.5,47297
+UPI-00018,Remote Access,AutoPay,182447,30,0,0,0,0,1,57.2,23718
+UPI-00019,Phishing,Collect,207238,43,1,0,1,0,0,63.8,33158
+UPI-00020,Mule Account,QR,232029,56,0,0,0,0,1,60.5,44086
+UPI-00021,Social Engineering,UPI,16820,69,1,0,0,1,0,53.1,336
+UPI-00022,Account Takeover,AutoPay,41611,82,0,1,1,1,0,64.8,2081
+UPI-00023,Fake Merchant,Collect,66402,95,0,0,0,0,0,29.4,5312
+UPI-00024,Investment Scam,QR,91193,12,0,0,0,0,0,31.1,9119
+UPI-00025,Remote Access,UPI,115984,25,1,0,1,0,0,57.7,16238
+UPI-00026,Phishing,AutoPay,140775,38,0,0,0,1,0,46.4,23932
+UPI-00027,Mule Account,Collect,165566,51,0,0,0,1,1,68.0,33113
+UPI-00028,Social Engineering,QR,190357,64,1,0,1,0,0,62.7,5711
+UPI-00029,Account Takeover,UPI,215148,77,1,1,0,0,0,69.3,12909
+UPI-00030,Fake Merchant,AutoPay,239939,90,0,0,0,0,0,41.0,21595
+UPI-00031,Investment Scam,Collect,24730,7,0,0,1,1,0,48.6,11128
+UPI-00032,Remote Access,QR,49521,20,0,0,0,1,0,40.3,24760
+UPI-00033,Phishing,UPI,74312,33,1,0,0,0,0,45.0,13376
+UPI-00034,Mule Account,AutoPay,99103,46,0,0,1,0,1,61.6,20812
+UPI-00035,Social Engineering,Collect,123894,59,0,0,0,0,1,53.3,4956
+UPI-00036,Account Takeover,QR,148685,72,0,1,0,1,0,61.9,10408
+UPI-00037,Fake Merchant,UPI,173476,85,1,0,1,1,0,73.6,17348
+UPI-00038,Investment Scam,AutoPay,198267,2,0,0,0,0,0,38.2,49567
+UPI-00039,Remote Access,Collect,223058,15,0,0,0,0,0,39.9,66917
+UPI-00040,Phishing,QR,7849,28,0,0,1,0,0,35.5,1491
+UPI-00041,Mule Account,UPI,32640,41,1,0,0,1,1,74.2,653
+UPI-00042,Social Engineering,AutoPay,57431,54,0,0,0,1,0,40.8,2872
+UPI-00043,Account Takeover,Collect,82222,67,0,1,1,0,0,55.5,6578
+UPI-00044,Fake Merchant,QR,107013,80,0,0,0,0,0,32.1,11771
+UPI-00045,Investment Scam,UPI,131804,93,1,0,0,0,0,48.8,18453
+UPI-00046,Remote Access,AutoPay,156595,10,1,0,1,1,0,72.4,15660
+UPI-00047,Phishing,Collect,181386,23,0,0,0,1,0,49.1,27208
+UPI-00048,Mule Account,QR,206177,36,0,0,0,0,1,58.7,6185
+UPI-00049,Social Engineering,UPI,230968,49,1,0,1,0,0,65.4,13858
+UPI-00050,Account Takeover,AutoPay,15759,62,0,1,0,0,0,41.1,1418
+UPI-00051,Fake Merchant,Collect,40550,75,0,0,0,1,0,39.7,4866
+UPI-00052,Investment Scam,QR,65341,88,0,0,1,1,1,71.4,9801
+UPI-00053,Remote Access,UPI,90132,5,1,0,0,0,0,46.0,40559
+UPI-00054,Phishing,AutoPay,114923,18,0,0,0,0,0,32.7,57462
+UPI-00055,Mule Account,Collect,139714,31,1,0,1,0,1,79.3,5589
+UPI-00056,Social Engineering,QR,164505,44,0,0,0,1,0,48.0,11515
+UPI-00057,Account Takeover,UPI,189296,57,1,1,0,1,0,79.6,18930
+UPI-00058,Fake Merchant,AutoPay,214087,70,0,0,1,0,0,49.3,27831
+UPI-00059,Investment Scam,Collect,238878,83,0,0,0,0,0,40.9,38220
+UPI-00060,Remote Access,QR,23669,96,0,0,0,0,0,26.6,4497
